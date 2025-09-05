@@ -1020,6 +1020,7 @@ select.form-control {
 /* Features Section - Mobile Optimized */
 .features {
   padding: var(--space-32) 0;
+  color: var(--color-black);
   background: var(--color-surface);
 }
 
